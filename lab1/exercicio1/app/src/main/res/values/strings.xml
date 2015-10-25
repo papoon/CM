@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lab 1#</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="q_nome">Qual é o teu nome:</string>
+    <string name="data">Data Nascimento:</string>
+    <string name="title_activity_main2">Qual é o teu nome</string>
+    <string name="qual_nome">Qual é o teu nome?</string>
+    <string name="sexo">Sexo:</string>
+    <string name="preencher">Preencher</string>
+    <string name="title_activity_main3">Qual a data nascimento</string>
+    <string name="data_n">Qual a tua data de nascimento?</string>
+    <string name="next">Next</string>
+    <string name="title_activity_main4">Qual o Sexo</string>
+    <string name="q_sexo">Qual o sexo?</string>
+    <string name="m">M</string>
+    <string name="f">F</string>
+    <string name="finish">Finish</string>
+
+</resources>
